@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A Competitive Programmer, Full Stack Web Developer, Investor & Entrepreneur</h3>
 
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw18RrwhQgRGn2p7hEgj4ZMb&ust=1621459593278000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICc6O6V1PACFQAAAAAdAAAAABAD)](https://codestarsingh.github.io)
+
 <br>
 
 - 🌱 I’m currently learning **DSA along with some advanced Web Development**
