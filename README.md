@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A Competitive Programmer, Full Stack Web Developer, Investor & Entrepreneur</h3>
 <br>
-<img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="300" height="300"/>
+<img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="300" height="200"/>
 <br>
 
 <h3 align="left">More About Me</h3>
