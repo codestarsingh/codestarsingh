@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A Competitive Programmer, Full Stack Web Developer, Investor & Entrepreneur</h3>
 
-[![MasterHead](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)](https://codestarsingh.github.io)
+[![MasterHead](https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif)](https://codestarsingh.github.io)
 
 <br>
 
