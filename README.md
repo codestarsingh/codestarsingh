@@ -6,17 +6,17 @@
 
 <h3 align="left">More About Me</h3>
 
-- 🌊 Most of my repo are PRIVATE. I only list some basic projects as PUBLIC.
+- 🌊 Most of my repo's are PRIVATE. I only list some basic projects as PUBLIC.
 
-- 🌱 I’m currently learning **DSA along with some advanced Web Development**
+- 🌱 I’m currently learning **DSA along with some advanced Web & Android Development.**
 
 - 👨‍💻 All of my projects are available at [LinkedIn](LinkedIn)
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-- 💬 Ask me about **Anything you desire**
+- 💬 Ask me about **anything you desire**
 
-- 📫 How to reach me **singh66333@gmail.com**
+- 📫 Connect with me **singh66333@gmail.com**
 
 - ⚡ Fun fact **Code never lies**
 
