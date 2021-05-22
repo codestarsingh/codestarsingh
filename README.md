@@ -6,6 +6,8 @@
 
 <h3 align="left">More About Me</h3>
 
+- 🌊 Most of my repo are PRIVATE. I only list some basic projects as PUBLIC.
+
 - 🌱 I’m currently learning **DSA along with some advanced Web Development**
 
 - 👨‍💻 All of my projects are available at [LinkedIn](LinkedIn)
