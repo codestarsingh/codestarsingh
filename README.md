@@ -42,6 +42,7 @@
 <a href="https://linkedin.com/in/codestarshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codestarshubham" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Quote</h3>
 _" Any fool can write code that a computer can understand. Good programmers write codes that humans can understand "_  - Martin Fowler
 
 ![image](footer-image2.png)
