@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">A Competitive Programmer, Full Stack Developer, Investor & Entrepreneur</h3>
+<h3 align="center">A Software Engineer & Developer</h3>
 
 ![image](github-header.png)
 
