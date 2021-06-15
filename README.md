@@ -6,8 +6,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codestarsingh&label=Profile%20views&color=0e75b6&style=flat" alt="codestarsingh" /> </p>
 
 <h3 align="left">More About Me</h3>
-<p>Hello! I am an undergrad student at NIT where I am pursing B.Tech in CSE. I have a deep passion for learning new technologies and combining them into creative work. 
+<p>Hello! I am an undergrad student at NIT where I am pursing B.Tech in CSE. I have a deep passion for learning new technologies and combining them into creative work.</p>
 
+<h3 align="left">My Tech Stack</h3>
+<ul>
+  <li>C/C++</li>
+  <li>Javascript and JQuery</li>
+  <li>Node.js with Express.js</li>
+  <li>ReactJS</li>
+  <li>MongoDB</li>
+  <li>Mongoose</li>
+  <li>Linux</li>
+  <li>Kotlin</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
