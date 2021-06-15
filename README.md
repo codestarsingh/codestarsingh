@@ -33,7 +33,7 @@
   <li>Cricket and Football</li>
   <li>Reading Self Help Books</li>
   <li>Writing Blogs</li>
-<ul>
+</ul>
 
 <h3 align="left">Connect With Me</h3>
 <p align="left">
