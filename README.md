@@ -43,7 +43,7 @@
 </p>
 
 <h3 align="left">Quote</h3>
-<p>_" Any fool can write code that a computer can understand. Good programmers write codes that humans can understand "_  - Martin Fowler</p>
+<p>" Any fool can write code that a computer can understand. Good programmers write codes that humans can understand " - Martin Fowler</p>
 <br>
 
 ![image](footer-image2.png)
