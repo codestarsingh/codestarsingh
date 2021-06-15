@@ -28,7 +28,7 @@
   <li>System Hiring</li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me</h3>
 <p align="left">
 <a href="https://twitter.com/codestarshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codestarshubham" height="30" width="40" /></a>
   
