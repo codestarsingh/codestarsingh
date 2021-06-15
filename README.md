@@ -20,7 +20,7 @@
   <li>Kotlin</li>
 </ul>
 
-<h3 align="left">My Tech Stack</h3>
+<h3 align="left">My Projects</h3>
 <ul>
   <li>Biryani Bowl</li>
   <li>Barber Mess</li>
