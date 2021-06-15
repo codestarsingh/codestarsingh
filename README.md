@@ -20,7 +20,7 @@
   <li>Kotlin</li>
 </ul>
 
-<h3 align="left">My Projects ❤️‍🔥</h3>
+<h3 align="left">My Projects 📛</h3>
 <ul>
   <li>Biryani Bowl</li>
   <li>Barber Mess</li>
@@ -28,14 +28,14 @@
   <li>System Hiring</li>
 </ul>
 
-<h3 align="left">Extra Curricular 🤾🏻</h3>
+<h3 align="left">Extra Curricular ⚽</h3>
 <ul>
   <li>Cricket and Football</li>
   <li>Reading Self Help Books</li>
   <li>Writing Blogs</li>
 </ul>
 
-<h3 align="left">Connect With Me 📛</h3>
+<h3 align="left">Connect With Me 🌐</h3>
 <p align="left">
 <a href="https://twitter.com/codestarshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codestarshubham" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/codestarshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codestarshubham" height="30" width="40" /></a>
