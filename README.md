@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A Competitive Coder, Full Stack Developer, Investor & Entrepreneur</h3>
 
-![image](top-image.png)
 ![image](github-header.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codestarsingh&label=Profile%20views&color=0e75b6&style=flat" alt="codestarsingh" /> </p>
@@ -42,5 +41,7 @@
   
 <a href="https://linkedin.com/in/codestarshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codestarshubham" height="30" width="40" /></a>
 </p>
+
+![image](footer-image.png)
 
 _" Any fool can write code that a computer can understand. Good programmers write codes that humans can understand "_  - Martin Fowler
