@@ -11,7 +11,7 @@
 <h3 align="left">My Tech Stack 🖥️</h3>
 <ul>
   <li>C/C++</li>
-  <li>Javascript and JQuery</li>
+  <li>Javascript</li>
   <li>Node.js with Express.js</li>
   <li>ReactJS</li>
   <li>MongoDB</li>
