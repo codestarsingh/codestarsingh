@@ -1,6 +1,14 @@
 <!-- HEADER PIC + INTRO -->
 ![image](github-header.png)
-<h1 align="left">Shubham Singh</h1>
+# Shubham Singh
+
+![](https://img.shields.io/badge/-JavaScript-dbc900)
+![](https://img.shields.io/badge/-Node.js-07db00)
+![](https://img.shields.io/badge/-React-5e5e5e)
+![](https://img.shields.io/badge/-MongoDB-blue)
+
+
+
 <p>I am a pre-final year CSE student at Narula Institute of Technology. I love to learn new technologies and combining them to build awesome and fast running applications. I derive my daily dose of motivation from my passion and love for software development.</p>
 
 <!-- TECH STACK -->
