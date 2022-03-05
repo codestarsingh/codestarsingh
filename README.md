@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">A Competitive Coder and a Full Stack Developer</h3>
-
 ![image](github-header.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codestarsingh&label=Profile%20views&color=0e75b6&style=flat" alt="codestarsingh" /> </p>
-
-<h3 align="left">More About Me 👱</h3>
+<h1 align="left">Shubham Singh</h1>
 <p>I am a pre-final year CSE student at Narula Institute of Technology. I love to learn new technologies and combining them to build awesome and fast running applications. I derive my daily dose of motivation from my passion and love for software development.</p>
 
 <h3 align="left">My Tech Stack 🖥️</h3>
@@ -50,3 +45,4 @@
 <br>
 
 ![image](github-footer.png)
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codestarsingh&label=Profile%20views&color=0e75b6&style=flat" alt="codestarsingh" /> </p> -->
