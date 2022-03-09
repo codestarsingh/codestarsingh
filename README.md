@@ -53,5 +53,5 @@
 <!-- <h3 align="left">Quote 🔖</h3> -->
 > "Any fool can write code that a computer can understand. Good programmers write codes that humans can understand" - Martin Fowler
 
-<!-- FOOTER PIC -->
+<!-- FOOTER PICS -->
 ![image](github-footer.png)
